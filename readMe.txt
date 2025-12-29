@@ -1,1 +1,1 @@
-Hi, Welcome to AI
+Welcome to AI
