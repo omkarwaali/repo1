@@ -31,6 +31,12 @@
              </dependency>
 </dependency>
 
+<dependency>
+        <groupId>org.restAssured</groupId>
+        <artifactId>restAssured</artifactId>
+        <version>1.0.0</version>
+        <scope>test</scope>
+      </dependency>
     </dependencies>
 
     <build>
