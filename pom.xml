@@ -31,6 +31,12 @@
              </dependency>
 </dependency>
 
+<dependency>
+        <groupId>org.cypress</groupId>
+        <artifactId>cypress</artifactId>
+        <version>1.0.0</version>
+        <scope>test</scope>
+      </dependency>
     </dependencies>
 
     <build>
